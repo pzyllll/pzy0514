@@ -1,1 +1,1 @@
-“I define the class attributes to this a.txt file
+Continue modifying attributes. Test result is satisfied.
