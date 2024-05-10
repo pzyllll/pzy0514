@@ -1,1 +1,8 @@
+Continue modifying attributes. Test result is satisfied.
+
 I define the class attributes to this a.txt file.
+
+I want to try a new set of attributes to a.txt in dev branch
+
+Continue modifying attributes
+Test result is satisfied
